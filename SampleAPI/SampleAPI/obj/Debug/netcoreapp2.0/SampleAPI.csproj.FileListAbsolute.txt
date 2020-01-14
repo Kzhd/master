@@ -1,0 +1,11 @@
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.0\SampleAPI.deps.json
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.0\SampleAPI.runtimeconfig.json
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.0\SampleAPI.runtimeconfig.dev.json
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.0\SampleAPI.dll
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.0\SampleAPI.pdb
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.csprojAssemblyReference.cache
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.AssemblyInfoInputs.cache
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.AssemblyInfo.cs
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.dll
+C:\Users\zahidk\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.0\SampleAPI.pdb
